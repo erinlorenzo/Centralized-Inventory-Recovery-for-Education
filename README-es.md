@@ -77,6 +77,7 @@ Los clientes se agrupan en roles típicos de entornos educativos (por ejemplo: P
 │   ├── resetHome.sh
 │   ├── loginSMB.sh
 │   └── logoutSMB.sh
+│   └── ocsAgent.sh
 ├── config/
 │   ├── smb.conf
 │   └── apache_glpi.conf
