@@ -74,19 +74,19 @@ Los clientes se agrupan en roles típicos de entornos educativos (por ejemplo: P
 /
 ├── scripts/
 │   ├── createUser.sh
-│   ├── resetHome.sh
 │   ├── loginSMB.sh
-│   └── logoutSMB.sh
+│   ├── logoutSMB.sh
 │   └── ocsAgent.sh
+│   └── resetHome.sh
 ├── FOG.md
 ├── GLPI.md
-├── OCS_Inventory_Server.md
-├── OCS_Inventory_LinuxAgent.md
-├── Nessus.md
-├── Samba_Configuration.md
 ├── Generic_User.md
+├── Nessus.md
+├── OCS_Inventory_LinuxAgent.md
+├── OCS_Inventory_Server.md
+├── README-es.md
 ├── README.md
-└── README-es.md
+└── Samba_Configuration.md
 ```
 
 ---
