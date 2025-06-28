@@ -77,6 +77,7 @@ Clients are grouped into roles typical of educational environments (e.g., Teache
 │   ├── resetHome.sh
 │   ├── loginSMB.sh
 │   └── logoutSMB.sh
+│   └── ocsAgent.sh
 ├── config/
 │   ├── smb.conf
 │   └── apache_glpi.conf
