@@ -1,5 +1,5 @@
 
-# Centralized-Inventory-Recovery-for-Education
+# Centralized Inventory Recovery for Educational Centers
 
 📖 [Leer esta documentación en español](README-es.md)
 
