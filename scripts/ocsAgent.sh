@@ -9,6 +9,6 @@ hostname="nombreGrupo-${mac_address//:/-}"
 # Cambiar el nombre de host del equipo
 sudo hostnamectl set-hostname $hostname
 
-cd /root/Ocsinventory-Unix-Agent-2.10.2 ||exit
+cd /path/to/Ocsinventory-Unix-Agent-2.10.2 ||exit
 
-sudo env PERL_AUTOINSTALL=1 perl Makefile.PL && sudo make && sudo make install && sudo perl postinst.pl --nowizard --server=http://192.168.88.2/ocsinventory --configdir=/etc/ocsinventory-agent --basevardir=/var/lib/ocsinventory-agent --crontab --debug --logfile=/var/log/ocsinventory-agent.log --download --snmp --now --tag="$hostname"
+sudo env PERL_AUTOINSTALL=1 perl Makefile.PL && sudo make && sudo make install && sudo perl postinst.pl --nowizard --server=http://ip-server/ocsinventory --configdir=/etc/ocsinventory-agent --basevardir=/var/lib/ocsinventory-agent --crontab --debug --logfile=/var/log/ocsinventory-agent.log --download --snmp --now --tag="$hostname"
