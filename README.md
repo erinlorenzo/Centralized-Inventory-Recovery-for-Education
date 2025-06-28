@@ -15,7 +15,7 @@ The system integrates multiple open-source tools to provide complete control and
 
 ## 🚀 Overview
 
-The project implements an inventory management system based on **GLPI**, enhanced with several additional functionalities. The system collects detailed information about the hardware, software, and network status of all devices using **OCS Inventory**. An alert system identifies and logs abnormal or unauthorized device behavior, providing comprehensive infrastructure control.
+The project implements an inventory management system based on **GLPI**, enhanced with several additional functionalities. The system collects detailed information about the hardware, software, and network status of all devices using **OCS Inventory**.
 
 Beyond continuous device management and monitoring, the project includes a **backup and image restoration system** using **FOG Project**. This ensures rapid recovery and data availability in case of failures or incidents.
 
