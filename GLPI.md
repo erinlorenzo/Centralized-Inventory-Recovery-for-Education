@@ -105,5 +105,3 @@ sudo mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -p -u root mysql
 ```
 
 ---
-
-**Autor:** Erín Lorenzo Coto
