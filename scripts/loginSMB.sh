@@ -29,7 +29,7 @@ if [ -z "$usuario" ] || [ -z "$contrasena" ]; then
 fi
 
 # Intentar montar la carpeta compartida
-if ! sudo mount -t cifs //ip-servidor/$usuario /mnt -o username=$usuario,password=$contrasena,rw,uid=$(id -u $USER),gid=$(id -g $USER); then
+if ! sudo mount -t cifs //ip-server/$usuario /mnt -o username=$usuario,password=$contrasena,rw,uid=$(id -u $USER),gid=$(id -g $USER); then
     zenity --error --text="¡No se pudo conectar a la carpeta compartida del servidor!" 
     exit 1
 fi
