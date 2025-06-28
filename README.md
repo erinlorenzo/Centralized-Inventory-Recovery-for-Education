@@ -78,15 +78,13 @@ Clients are grouped into roles typical of educational environments (e.g., Teache
 │   ├── loginSMB.sh
 │   └── logoutSMB.sh
 │   └── ocsAgent.sh
-├── docs/
-│   ├── diagrams.png
-│   ├── screenshots/
-│   └── Documentacion_Administrador.pdf
 ├── FOG.md
 ├── GLPI.md
 ├── OCS_Inventory_Server.md
 ├── OCS_Inventory_LinuxAgent.md
 ├── Nessus.md
+├── Samba_Configuration.md
+├── Generic_User.md
 ├── README.md
 └── README-es.md
 ```
