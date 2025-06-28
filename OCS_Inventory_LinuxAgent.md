@@ -30,7 +30,11 @@ En el repositorio incluimos un script llamado `ocsAgent.sh` dentro de la carpeta
 - Añade un prefijo de grupo al hostname para organizar los equipos en OCS de forma más visual
 - Instala y configura el agente, utilizando los parámetros necesarios para integrarlo con el servidor de OCS
 
+**Acceso al script:** [scripts/ocsAgent.sh](scripts/ocsAgent.sh)
+
 ### Contenido del script
+
+Ac
 
 ```bash
 #!/bin/bash
