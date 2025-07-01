@@ -97,9 +97,11 @@ Refer to the following documents for detailed installation and configuration ins
 
 - [FOG Project Setup](FOG.md)
 - [GLPI Installation & Configuration](GLPI.md)
+- [Generic User Configuration](Generic_User.md)
 - [OCS Inventory Server Setup](OCS_Inventory_Server.md)
 - [OCS Inventory Linux Agent Setup](OCS_Inventory_LinuxAgent.md)
 - [Nessus Setup](Nessus.md)
+- [Samba Configuration](Samba_configuration.md)
 
 Each document includes step-by-step guides, screenshots, and recommended best practices.
 
