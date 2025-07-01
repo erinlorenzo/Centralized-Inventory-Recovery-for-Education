@@ -97,9 +97,11 @@ Consulta los siguientes documentos para instrucciones detalladas de instalación
 
 - [Instalación de FOG Project](FOG.md)
 - [Instalación y Configuración de GLPI](GLPI.md)
+- [Configuración del usuario genérico](Generic_User.md)
 - [Instalación de OCS Inventory Server](OCS_Inventory_Server.md)
 - [Instalación de OCS Inventory Linux Agent](OCS_Inventory_LinuxAgent.md)
 - [Instalación de Nessus](Nessus.md)
+- [Configuración de Samba](Samba_Configuration.md)
 
 Cada documento incluye guías paso a paso, capturas de pantalla y buenas prácticas recomendadas.
 
