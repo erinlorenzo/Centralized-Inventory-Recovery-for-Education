@@ -101,7 +101,7 @@ Refer to the following documents for detailed installation and configuration ins
 - [OCS Inventory Server Setup](OCS_Inventory_Server.md)
 - [OCS Inventory Linux Agent Setup](OCS_Inventory_LinuxAgent.md)
 - [Nessus Setup](Nessus.md)
-- [Samba Configuration](Samba_configuration.md)
+- [Samba Configuration](Samba_Configuration.md)
 
 Each document includes step-by-step guides, screenshots, and recommended best practices.
 
